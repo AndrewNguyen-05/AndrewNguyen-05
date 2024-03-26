@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><b>Hi , I'm Hoang Anh </b><img src="gifs/hello.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Java+Developer..&hearts;++;Self-taught+Fullstack+Developer,;Software+Engineering+Student,;Javascript-Fullstack-Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Hoang+Anh+and+I+am;a+Java+Developer..&hearts;++;a+Self-taught+Fullstack+Developer,;a+Software+Engineering+Student,;a+Javascript-Fullstack-Developer,;an+Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## 🧑‍💻<b>About me</b>
