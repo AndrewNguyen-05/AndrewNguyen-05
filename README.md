@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I am currently pursuing a Bachelor's degree in <b>Software Engineering</b> at the <a href="https://uit.edu.vn">University of Information Technology.</a>
-- 👨‍💻 I'm deeply passionate about developing full applications and websites. 
+- 👨‍💻 I'm deeply passionate about developing fullstack websites and applications. 
 - 🍵 I love working with Java.
 - 📧 How to reach me: <a href="mailto:anhnguyen.05@gmail.com">anhnguyen.05@gmail.com</a>
 <br>
