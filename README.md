@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 ## <img src="gifs/stat.gif" width="35"><b> Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=andrewnguyen-05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![Leetcode Stats](https://leetcard.jacoblin.cool/andrewnguyen-05?theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrewnguyen-05&&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewnguyen-05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrewnguyen-05&&theme=tokyonight)
+![Leetcode Stats](https://leetcard.jacoblin.cool/andrewnguyen-05?theme=dark)
 
 ## <img src="gifs/handshake.gif" width ="80"><b> Let's Connect!</b>
 <p align="left">
