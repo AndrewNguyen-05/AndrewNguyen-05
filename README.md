@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Hoang+Anh+and+I+am;a+Java+Developer..&hearts;++;a+Self-taught+Fullstack+Developer,;a+Software+Engineering+Student,;a+Javascript-Fullstack-Developer,;an+Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=andrewnguyen-05&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" />
 
 ## 🧑‍💻<b>About me</b>
 <img align="right" alt="Engineer" width="400" src="gifs/trust me.gif">
