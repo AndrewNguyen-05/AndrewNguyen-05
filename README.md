@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 - ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ## <img src="gifs/stat.gif" width="35"><b> Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=andrewnguyen-05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
