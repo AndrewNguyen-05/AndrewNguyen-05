@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Engineer" width="400" src="gifs/trust me.gif">
 <br>
 
-- 🔭 I am currently pursuing a Bachelor's degree in <b>Software Engineering</b> at the <a href="https://uit.edu.vn">University of Information Technology.</a>
+- 🔭 I am currently pursuing a Bachelor's degree in <b>Software Engineering</b> at <a href="https://uit.edu.vn">Ho Chi Minh University of Information Technology.</a>
 - 👨‍💻 I'm deeply passionate about developing fullstack websites and applications. 
 - 🍵 I love working with Java.
 - 📧 How to reach me: <a href="mailto:anhnguyen.052003@gmail.com">anhnguyen.052003@gmail.com</a>
