@@ -46,7 +46,7 @@
 
 ## <img src="gifs/handshake.gif" width ="80"><b> Let's Connect!</b>
 <p align="left">
-<a href="https://www.facebook.com/andrew.nguyen0505/" target="blank"><img align="center" src="logos/facebook.svg" alt="Nguyễn Văn Hoàng Anh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nguyen.van.hoang.anh.308663/" target="blank"><img align="center" src="logos/facebook.svg" alt="Nguyễn Văn Hoàng Anh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hoanganh0505/" target="blank"><img align="center" src="logos/linked-in.svg" alt="Van Hoang Anh Nguyen" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andrewnguyen_05/" target="blank"><img align="center" src="logos/instagram.svg" alt="andrewnguyen_05" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6AxdlDWF67UH1LFeynpZcw" target="blank"><img align="center" src="logos/youtube.svg" alt="Andrew Nguyen" height="30" width="40" /></a>
