@@ -9,9 +9,9 @@
 <img align="right" alt="Engineer" width="400" src="gifs/trust me.gif">
 <br>
 
-- 🔭 I am pursuing a Bachelor's degree in <b>Software Engineering</b> at <a href="https://uit.edu.vn">Ho Chi Minh University of Information Technology.</a>
+- 🔭 I'm a <b>software engineer</b> graduate from <a href="https://uit.edu.vn">Ho Chi Minh University of Information Technology.</a> with hands-on experience in backend development using Java
 - 👨‍💻 I'm deeply passionate about developing fullstack websites and applications. 
-- 🍵 I love working with Java.
+- 🍵 I love working with backend development.
 - 📧 How to reach me: <a href="mailto:anhnguyen.052003@gmail.com">anhnguyen.052003@gmail.com</a>
 <br>
 
